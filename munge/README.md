@@ -10,3 +10,5 @@ and so on. Feel free to skip to a much higher number if you enter a new conceptu
 1. `01-clean_household_survey.R`
 1. `02-feature_engineer_household_survey.R`
 1. `10-clean_facility_data.R`
+
+There are two pre-existing munge files: one to cache any dataframes at the end of mungeing, and one to automatically run all tests in `tests/`, which is good practice.
