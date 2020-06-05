@@ -29,4 +29,4 @@ Do _not_ just clone this repository and copy the files into another folder, unle
 
 ## Improving this template
 
-Want to improve the documentation, add a useful function, or anything else? Make the change and create a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
+Want to improve the documentation, add a useful function, or anything else? Make the change and create a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) or, perhaps more simply, create an [issue](https://github.com/SurgoFoundation/surgo_project_template_r/issues)!
