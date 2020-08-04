@@ -19,7 +19,7 @@ To set up your project, we're following [this process as described on Github](ht
 1. Go to github.com and create the new repository, leaving it empty. Take note of the git URL of this repository, which will look something like `https://github.com/SurgoFoundation/new-repository.git`.
 1. Open up a terminal with git installed - in Windows [Git Bash](https://gitforwindows.org/) is recommended.
 1. Navigate to any folder where you can temporarily store some files - this is _not_ where your new repository will end up.
-1. Command line: `git clone --bare https://github.com/SurgoFoundation/surgo_project_template_r.git`
+1. Command line: `git clone --bare https://github.com/SurgoFoundation/Surgo-R-Project-Template.git`
 1. Command line: `cd surgo_project_template_r.git`
 1. Command line: `git push --mirror https://github.com/SurgoFoundation/new-repository.git`
 
@@ -29,4 +29,4 @@ Do _not_ just clone this repository and copy the files into another folder, unle
 
 ## Improving this template
 
-Want to improve the documentation, add a useful function, or anything else? Make the change and create a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) or, perhaps more simply, create an [issue](https://github.com/SurgoFoundation/surgo_project_template_r/issues)!
+Want to improve the documentation, add a useful function, or anything else? Make the change and create a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) or, perhaps more simply, create an [issue](https://github.com/SurgoFoundation/Surgo-R-Project-Template/issues)!
